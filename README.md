@@ -16,5 +16,5 @@ Python (pandas) in Google Colab. See the notebook for the full analysis.
 ## Note on the data
 The dataset is simulated, and some customers were deliberately made to look at-risk so the signals had something real to catch. It is not real customer data.
 
-##What was hard
+## What was hard
 Trying use the two signals very efficiently. Making sure that customers are not flagged by mistake. 
